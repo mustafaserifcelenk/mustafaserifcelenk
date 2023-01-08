@@ -10,7 +10,7 @@ Connect with me:
 
 <a href="https://www.linkedin.com/in/mustafa-%C5%9Ferif-%C3%A7elenk/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fcakiroglu16" height="30" width="40" style="max-width: 100%;"></a>
 
-I share some articles and notes:
+I share some articles and notes on:
 
 <a href="https://medium.com/@mustafaserifcelenk" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@f.cakiroglu16" height="30" width="40" style="max-width: 100%;"></a>
 
