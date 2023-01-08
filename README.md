@@ -26,7 +26,7 @@ Technologies:
 <a href="https://www.rabbitmq.com" rel="nofollow"> <img src="https://camo.githubusercontent.com/52efcb7f1ba0a82b322c4d1eb8d33ebe886627b405013ed2f1d1c3cf818abbeb/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f7261626269746d712f7261626269746d712d69636f6e2e737667" alt="rabbitMQ" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" style="max-width: 100%;"> </a>
 <a href="https://redis.io" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40" style="max-width: 100%;"> </a> 
 <a href="https://openlayers.org/" rel="nofollow"> <img src="https://user-images.githubusercontent.com/72551126/211200225-2c0ef133-4f93-4479-9840-25479dd4e5cc.png" alt="openlayers" width="40" height="40" style="max-width: 100%;"></a>
-<a href="https://www.precisely.com/product/precisely-mapinfo/mapinfo-pro" rel="nofollow"> <img src="https://img.informer.com/icons/png/128/6199/6199792.png" alt="reactjs" width="40" height="40" style="max-width: 100%;"></a>
+<a href="https://www.precisely.com/product/precisely-mapinfo/mapinfo-pro" rel="nofollow"> <img src="https://img.informer.com/icons/png/128/6199/6199792.png" alt="mapinfo" width="40" height="40" style="max-width: 100%;"></a>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafaserifcelenk&layout=compact)](https://github.com/mustafaserifcelenk/github-readme-stats)
